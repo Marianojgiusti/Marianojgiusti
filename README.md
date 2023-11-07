@@ -66,7 +66,14 @@
 </a>
 <a href="https://instagram.com/marianojgiusti" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+</a> 
+ <a href="mailto:marianogiusti1@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="email" style="margin-bottom: 5px;" />
+</a>
+<a href="mailto:giusti_mariano@hotmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/email-%0072C6F.svg?&style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="email" style="margin-bottom: 5px;" />
+</a>
+ 
 </div>  
   
 
