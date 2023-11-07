@@ -9,9 +9,9 @@
 <br/>
 <h2 align="center">-💬¿A quien me dirigo?</h2>
  <p> A todo ente laboral que quiera darme una oportunidad de demostrar que soy una persona trabajadora, compañera y constante. Trabajar para cumplir con los objetivos encomendados</p>
-<p align="left">Todos mis proyectos están disponibles <a href ="https://github.com/ryo-ma/github-profile-tropic"> aqui</a></p>
 
-<p align="left"> <a href =proximamente >📄 Mi CV</a></p>
+
+
 
 <br/>  
 
@@ -70,5 +70,4 @@
 </div>  
   
 
-<br/>fact: ...
--->
+<br/>
