@@ -71,7 +71,7 @@
 <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="email" style="margin-bottom: 5px;" />
 </a>
 <a href="mailto:giusti_mariano@hotmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=mail.ru&logoColor=white" alt="email" style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=mail.ru&logoColor=blue" alt="email" style="margin-bottom: 5px;" />
 </a>
  
 </div>  
